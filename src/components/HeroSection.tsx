@@ -97,9 +97,8 @@ export default function HeroSection() {
               transition={{ duration: 0.6, delay: 0.3 }}
               className="mt-6 max-w-xl text-sm sm:text-base text-zinc-400/90 leading-relaxed font-sans"
             >
-              Building modern digital experiences with creativity, performance &amp; AI. 
-              Fusing Stripe-level clean interfaces, Apple-inspired cinematic flows, 
-              and robust backends.
+              I build fast, modern and user-focused web experiences
+for startups, brands and real-world businesses.
             </motion.p>
 
             {/* Call to Actions Deck */}
@@ -113,7 +112,7 @@ export default function HeroSection() {
                 onClick={() => handleScrollTo("contact")}
                 className="group relative flex items-center gap-2 rounded-full bg-zinc-100 hover:bg-white px-6 py-3 font-mono text-[10px] font-bold tracking-wider text-black uppercase transition-all"
               >
-                Hire Kishan
+                Contact Kishan
                 <Briefcase className="h-3.5 w-3.5" />
               </button>
 
