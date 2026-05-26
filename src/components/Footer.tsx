@@ -55,7 +55,7 @@ export default function Footer() {
         <div className="border-t border-zinc-900 pt-8 flex flex-col sm:flex-row justify-between items-center gap-6 text-zinc-600 text-[10px] font-mono tracking-wider uppercase">
           
           <div className="text-center sm:text-left">
-            &copy; {new Date().getFullYear()} KISHAN PRAVINBHAI DABHI. ALL WORLD RIGHTS REGISTERED.
+            &copy; {new Date().getFullYear()} KISHAN PRAVINBHAI DABHI. ALL RIGHTS REGISTERED.
           </div>
 
           <button
